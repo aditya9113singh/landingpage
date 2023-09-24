@@ -1,0 +1,44 @@
+body{
+    background-image: url(blur2.jpg);
+    background-size: cover;
+}
+.main1{
+    height: 450px;
+    background-color: mediumseagreen;
+    width: 400px;
+    border: 2px solid black;
+
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 150px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+input{
+    height: 40px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+input:hover{
+    box-shadow: 3px 3px 6px black;
+}
+button{
+    margin-left: 160px;
+    height: 35px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 19px;
+}
+button:hover{
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 3px 6px black;
+    border: 2px solid black;
+
+
+}
